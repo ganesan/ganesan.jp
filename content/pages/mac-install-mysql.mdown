@@ -1,0 +1,13 @@
+Date: 1 April 2011
+
+#Installing MySQL to MAC using brew
+
+$brew install mysql
+
+$mysql_install_db
+
+$mysql.server status
+
+$mysql.server start
+
+
