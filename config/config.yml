@@ -1,7 +1,7 @@
 # Title and subheading for your site. Used on the home page and in page
 # titles.
 #
-title: "Teach Me to Forex"
+title: "-No Title-"
 subtitle: "Finally I am Blogging"
 
 # You should really specify your content's author when generating an
@@ -26,7 +26,7 @@ subtitle: "Finally I am Blogging"
 # site's short name here. A comment form will automatically be added to
 # the bottom of your pages.
 #
-disqus_short_name: gforex
+disqus_short_name: ganesan
 
 # cache
 #     Set it to true if you'd like Nesta to cache your pages in ./public.
